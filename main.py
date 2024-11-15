@@ -50,4 +50,5 @@ for idx, row in datos_completos.iterrows():
                                                                 'Satisfacción con Calidad del Producto',
                                                                 'Satisfacción con Sostenibilidad']].to_dict())
 print("\n---\n")
+# este es un comentario de prueba
 
